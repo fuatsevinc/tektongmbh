@@ -2,12 +2,6 @@
 
 > **Wir bauen die Netzinfrastruktur der Zukunft** – Von der Planung bis zur Fertigstellung.
 
-A responsive, multi-page corporate website built for **TEKTON GmbH**, a German civil engineering company specializing in fiber optic installation, civil works, and network infrastructure projects.
-
-Live Demo: https://fuatsevinc.github.io/tektongmbh/# TEKTON GmbH – Netzinfrastruktur Website
-
-> **Wir bauen die Netzinfrastruktur der Zukunft** – Von der Planung bis zur Fertigstellung.
-
 A responsive, multi-page corporate website built for **TEKTON GmbH**, a German civil engineering company specializing in fiber optic installation, civil works (Tiefbau), and network infrastructure projects.
 
 Live Demo: https://fuatsevinc.github.io/tektongmbh/
@@ -77,40 +71,3 @@ tektongmbh/
 |------|-------------|
 | Start (Home) | Hero section, services overview, about section |
 | Unternehmen | Company information and values |
-| Elektrotechnik | Electrical engineering services |
-| Saugbagger | Vacuum excavator services |
-| Projekte | Portfolio of completed projects |
-| Team | Team members and profiles |
-| Kontakt | Contact form and company details |
-
----
-
-## Getting Started
-
-### Prerequisites
-
-- A modern web browser
-- A local web server for PHP form functionality (XAMPP, MAMP, or PHP built-in server)
-
-### Local Development
-
-1. Clone the repository:
-   git clone https://github.com/fuatsevinc/tektongmbh.git
-
-2. Navigate into the project directory:
-   cd tektongmbh
-
-3. Open index.html in your browser, or start a local PHP server:
-   php -S localhost:8000
-
-4. Visit http://localhost:8000 in your browser.
-
----
-
-## License
-
-This project is developed as a client/portfolio project. All rights reserved TEKTON GmbH.
-
----
-
-Developed by fuatsevinc - https://github.com/fuatsevinc
